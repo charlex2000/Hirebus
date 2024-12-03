@@ -31,6 +31,6 @@ The **Hire Bus Website** is a comprehensive platform designed to simplify the pr
 
 #### **Technical Stack**
 - **Frontend**: Built with modern languages like HTML5 and CSS for a responsive design.  
-- **Backend**: Server-side logic implemented using Node.js or Python.  
+- **Backend**: Server-side logic implemented using php and MySQL.  
 
 This platform enhances convenience, ensuring a smooth experience for both customers and administrators. Future updates may include loyalty programs and mobile app integration.
