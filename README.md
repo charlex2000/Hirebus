@@ -1,13 +1,15 @@
 # Hirebus
 
-## Nwafor Charles (FE)
-## Mbamara Joshua Elochukwu (FE)
-## Orisakwe Praise (FE)
-## Nzeanochie Godswill (FE)
-## Matthew Prince (FE)
-## Obi Divine Obianuju (FE)
+# MEMBERS
+- **NWAFOR CHARLES (FE)**
+- **Mbamara Joshua Elochukwu (FE)**
+- **Orisakwe Praise (FE)**
+- **Nzeanochie Godswill (FE)**
+- **Matthew Prince (FE)**
+- **Obi Divine Obianuju (FE)**
+- **Okwara Joshua (BE)**
 
-#### Documentation: Bus Hire Website
+# Documentation: Bus Hire Website
 
 The **Hire Bus Website** is a comprehensive platform designed to simplify the process of booking buses for various occasions, such as corporate events, group travel, weddings, and excursions. The website provides an intuitive interface for users to browse, select, and book buses seamlessly.
 
@@ -28,8 +30,7 @@ The **Hire Bus Website** is a comprehensive platform designed to simplify the pr
    Admins can manage bus listings, update availability, and handle customer inquiries.
 
 #### **Technical Stack**
-- **Frontend**: Built with modern frameworks like React or Angular for a responsive design.  
+- **Frontend**: Built with modern languages like HTML5 and CSS for a responsive design.  
 - **Backend**: Server-side logic implemented using Node.js or Python.  
-- **Database**: MySQL or MongoDB stores user and booking data securely.  
 
 This platform enhances convenience, ensuring a smooth experience for both customers and administrators. Future updates may include loyalty programs and mobile app integration.
